@@ -10,8 +10,12 @@
   "author": "Jonathan Potter <jonathan.d.potter@outlook.com>",
   "license": "MIT",
   "dependencies": {
+    "cloudinary": "^1.28.1",
+    "cors": "^2.8.5",
     "dotenv": "^16.0.0",
+    "express": "^4.17.3",
     "node": "^17.5.0",
+    "nodemon": "^2.0.15",
     "ts-node": "^10.6.0",
     "typescript": "^4.6.2"
   }
